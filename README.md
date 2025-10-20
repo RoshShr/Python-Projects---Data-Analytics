@@ -28,15 +28,11 @@
 ### 🏦 Bank Loan Analysis
 Explore financial lending patterns and borrower behavior:
 
-➡️ [View Project Folder](./Python-Projects---Data-Analytics/tree/main/Bank%20Loan%20Analysis)
+<p align="left">
+  <a href="https://github.com/RoshShr/Python-Projects---Data-Analytics/tree/main/Bank%20Loan%20Analysis" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_View_Project-Folder-blueviolet?style=for-the-badge&logo=github" alt=" Click Here To View Project Folder"/>
+  </a>
+</p>
 
 ---
 
-### 📱 Google Play Store Analysis
-Dive into app market data and discover insights:
-
-- ⭐ Category-wise **ratings**, **installs**, and **pricing** trends  
-- 🔁 Correlation between **reviews ↔ installs ↔ ratings**  
-- 🧹 Outlier & **duplicate app handling**
-
-➡️ [View Project Folder](./google-play-store-analysis)
